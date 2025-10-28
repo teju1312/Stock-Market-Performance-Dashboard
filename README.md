@@ -51,7 +51,8 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 
 4. Learned to connect excel and databases and dashboards into one smooth workflow.
 
-✅ Page 1: Stock Dashboard
+# ✅ Page 1: Stock Dashboard
+
 This page provides a high-level summary of stock market performance, delivering essential KPIs for price, volume, and percent change across selected symbols and date ranges.
 
 1. This dashboard shows daily stock performance for different companies.
