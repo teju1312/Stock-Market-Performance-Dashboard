@@ -68,3 +68,19 @@ This page provides a high-level summary of stock market performance, delivering 
 6. Overall, it helps to monitor and compare stock trends visually and interactively.
 
 ![Stock Dashboard](gifs/Stock_dashboard.gif)
+
+# ✅ Page 2: Validation Table 
+
+Slicer-driven detail tables for result checks.
+
+1. This page shows the detailed stock data in a tabular format.
+
+2. It includes key fields like open price, close price, volume, and daily percentage change.
+
+3. Users can filter by stock symbol or date range using slicers on the right.
+
+4. It helps to analyze exact daily values and verify trends seen in the main dashboard.
+
+5. This page is mainly used for data validation and deeper numeric analysis of stock performance.
+
+![Table](Table.gif)
