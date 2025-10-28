@@ -41,3 +41,12 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 3. Power BI 
 
 4. Excel
+
+# 🧠 Learnings
+1. Learned to collect, clean, and move financial data using Python and SQL.
+
+2. Linked data with Power BI to build live and flexible financial dashboards.
+
+3. Made clear visuals for quick overviews and detailed accuracy checks.
+
+4 Learned to connect excel and databases and dashboards into one smooth workflow.
