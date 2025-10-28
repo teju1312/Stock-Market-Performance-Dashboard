@@ -26,4 +26,4 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 
 5. Built interactive reports with filters for stock symbols, dates, and metrics.
 
-I6. ncluded detailed tables to check individual transactions and ensure data accuracy.
+6. ncluded detailed tables to check individual transactions and ensure data accuracy.
