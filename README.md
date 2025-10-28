@@ -29,6 +29,6 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 6. ncluded detailed tables to check individual transactions and ensure data accuracy.
 
 # 📈 Dashboard Pages
-1. Stock Dashboard: KPI cards as price/volume, Daily % change etc. and volatility line charts with dynamic symbol/date filtering.
+1. Stock Dashboard
 
-2. Validation Table: Slicer-driven detail tables for transparent backend and result checks.
+2. Validation Table
