@@ -49,4 +49,4 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 
 3. Made clear visuals for quick overviews and detailed accuracy checks.
 
-4 Learned to connect excel and databases and dashboards into one smooth workflow.
+4. Learned to connect excel and databases and dashboards into one smooth workflow.
