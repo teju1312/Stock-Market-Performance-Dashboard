@@ -32,3 +32,12 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 1. Stock Dashboard
 
 2. Validation Table
+
+# 🚀 Tools & Technologies
+1. Python (pandas)
+
+2. MySQL
+
+3. Power BI 
+
+4. Excel
