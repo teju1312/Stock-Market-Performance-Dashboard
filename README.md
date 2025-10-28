@@ -83,4 +83,4 @@ Slicer-driven detail tables for result checks.
 
 5. This page is mainly used for data validation and deeper numeric analysis of stock performance.
 
-![Table](Table.gif)
+![Table](gifs/Table.gif)
