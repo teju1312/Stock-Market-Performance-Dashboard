@@ -67,3 +67,4 @@ This page provides a high-level summary of stock market performance, delivering 
 
 6. Overall, it helps to monitor and compare stock trends visually and interactively.
 
+![Stock Dashboard](gifs/Stock_Dashboard.gif)
