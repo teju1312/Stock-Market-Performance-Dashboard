@@ -40,8 +40,6 @@ Raw stock market data (Excel/CSV) ➡️ Data cleaning and transformation with P
 
 3. Power BI 
 
-4. Excel
-
 # 🧠 Learnings
 1. Learned to collect, clean, and move financial data using Python and SQL.
 
